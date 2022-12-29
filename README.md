@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Technologies
+
+React 
+ReactQuery 
+Atom design architecture
+Hooks
+Jest 
+React Router
+
 ## Available Scripts
 
 In the project directory, you can run:

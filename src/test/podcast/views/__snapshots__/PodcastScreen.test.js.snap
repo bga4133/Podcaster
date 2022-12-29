@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PodcastScreen /> test render the component 1`] = `
+<div>
+  <div>
+    <div
+      class="searchContainer"
+    >
+      <p
+        class="responseLength"
+      >
+        0
+      </p>
+      <input
+        class="search"
+        placeholder="search"
+        type="text"
+      />
+    </div>
+    <div
+      class="lds-dual-ring"
+    />
+    <div
+      class="podcastScreen"
+      data-testid="imgId"
+    />
+  </div>
+</div>
+`;
